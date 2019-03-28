@@ -3,7 +3,7 @@
   <groupId>com.github.kamatama41</groupId>
   <artifactId>nsocket</artifactId>
   <versioning>
-    <release>0.2.7</release>
+    <release>0.2.8</release>
     <versions>
       <version>0.1.0</version>
       <version>0.1.1</version>
@@ -15,7 +15,8 @@
       <version>0.2.5</version>
       <version>0.2.6</version>
       <version>0.2.7</version>
+      <version>0.2.8</version>
     </versions>
-    <lastUpdated>20190328023605</lastUpdated>
+    <lastUpdated>20190328031042</lastUpdated>
   </versioning>
 </metadata>
